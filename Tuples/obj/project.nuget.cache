@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DgxtGE63p9VoOwy8Bu0wrI+kiPcuYlffi8fuCjwOTIdhhkk7I4GFD2hlu89C+afrpcht7tHo0xouhl5/IUYKkg==",
+  "dgSpecHash": "jiUiRTxlcccyX0l4tjNTu1uDZU4Cfnk0MTJNDA/B2gV8qj2OuKiAd6mIMvSSfwWtXH+zQnW9DsRzmJ9A1V+Jow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ashish\\Documents\\GitHub\\C-Sharp\\Tuples\\Tuples.csproj",
+  "projectFilePath": "C:\\Users\\Ashish\\Documents\\GitHub\\C-Sharp\\tuples\\tuples.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

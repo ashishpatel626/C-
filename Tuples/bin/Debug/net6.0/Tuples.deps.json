@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Tuples/1.0.0": {
+      "tuples/1.0.0": {
         "runtime": {
-          "Tuples.dll": {}
+          "tuples.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Tuples/1.0.0": {
+    "tuples/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
