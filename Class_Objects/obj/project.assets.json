@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ashish\\Documents\\GitHub\\C#\\Class_Objects\\Class_Objects.csproj",
+      "projectUniqueName": "C:\\Users\\Ashish\\Documents\\GitHub\\C-Sharp\\Class_Objects\\Class_Objects.csproj",
       "projectName": "Class_Objects",
-      "projectPath": "C:\\Users\\Ashish\\Documents\\GitHub\\C#\\Class_Objects\\Class_Objects.csproj",
+      "projectPath": "C:\\Users\\Ashish\\Documents\\GitHub\\C-Sharp\\Class_Objects\\Class_Objects.csproj",
       "packagesPath": "C:\\Users\\Ashish\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ashish\\Documents\\GitHub\\C#\\Class_Objects\\obj\\",
+      "outputPath": "C:\\Users\\Ashish\\Documents\\GitHub\\C-Sharp\\Class_Objects\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ashish\\AppData\\Roaming\\NuGet\\NuGet.Config",
