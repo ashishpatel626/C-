@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ashish\\Documents\\GitHub\\C-Sharp\\Test\\Test.csproj": {}
+    "C:\\Users\\Ashish\\Documents\\GitHub\\C-Sharp\\Tuples\\Tuples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ashish\\Documents\\GitHub\\C-Sharp\\Test\\Test.csproj": {
+    "C:\\Users\\Ashish\\Documents\\GitHub\\C-Sharp\\Tuples\\Tuples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ashish\\Documents\\GitHub\\C-Sharp\\Test\\Test.csproj",
-        "projectName": "Test",
-        "projectPath": "C:\\Users\\Ashish\\Documents\\GitHub\\C-Sharp\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\Ashish\\Documents\\GitHub\\C-Sharp\\Tuples\\Tuples.csproj",
+        "projectName": "Tuples",
+        "projectPath": "C:\\Users\\Ashish\\Documents\\GitHub\\C-Sharp\\Tuples\\Tuples.csproj",
         "packagesPath": "C:\\Users\\Ashish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ashish\\Documents\\GitHub\\C-Sharp\\Test\\obj\\",
+        "outputPath": "C:\\Users\\Ashish\\Documents\\GitHub\\C-Sharp\\Tuples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ashish\\AppData\\Roaming\\NuGet\\NuGet.Config",
