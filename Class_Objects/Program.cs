@@ -1,33 +1,34 @@
 ﻿using System;
 
-namespace Program {
-    public class car{
-        public string make = "";
-        public string model = "";
-        public int year; 
+namespace Class_Objects
+{
+    public class car
+    {
+        public string make;
+        public string model;
+        public int year;
 
-        public int num(){
-            return 1;
+        public car(string aMake, string aModel, int aYear)
+        {
+            make = aMake;
+            model = aModel;
+            year = aYear;
         }
-    }
 
-    public class tesla : car {
+        
         
     }
 
-
-    class tuples{
+    class Program{
        static void Main(String[] args){
-           car car1 = new car();
-           car1.make = "toyota";
-           car1.model = "ravenger";
-           car1.year = 2025;
+           car car1 = new car("honda", "insight", 2019);
 
-           tesla tesla1 = new tesla();
-           tesla1.make = "hello";
+           //tesla tesla1 = new tesla("models");
 
            
-           Console.WriteLine(tesla1.make);
+           Console.WriteLine(car1.make);
        }
     }    
+
+  
 }

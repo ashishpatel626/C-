@@ -1,0 +1,15 @@
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Threads\obj\Debug\net6.0\Threads.csproj.AssemblyReference.cache
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Threads\obj\Debug\net6.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Threads\obj\Debug\net6.0\Threads.AssemblyInfoInputs.cache
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Threads\obj\Debug\net6.0\Threads.AssemblyInfo.cs
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Threads\obj\Debug\net6.0\Threads.csproj.CoreCompileInputs.cache
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Threads\bin\Debug\net6.0\Threads.exe
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Threads\bin\Debug\net6.0\Threads.deps.json
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Threads\bin\Debug\net6.0\Threads.runtimeconfig.json
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Threads\bin\Debug\net6.0\Threads.dll
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Threads\bin\Debug\net6.0\Threads.pdb
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Threads\obj\Debug\net6.0\Threads.dll
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Threads\obj\Debug\net6.0\refint\Threads.dll
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Threads\obj\Debug\net6.0\Threads.pdb
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Threads\obj\Debug\net6.0\Threads.genruntimeconfig.cache
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Threads\obj\Debug\net6.0\ref\Threads.dll

@@ -1,0 +1,15 @@
+C:\Users\Ashish\Documents\GitHub\C-Sharp\getters_setters\obj\Debug\net6.0\getters_setters.csproj.AssemblyReference.cache
+C:\Users\Ashish\Documents\GitHub\C-Sharp\getters_setters\obj\Debug\net6.0\getters_setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashish\Documents\GitHub\C-Sharp\getters_setters\obj\Debug\net6.0\getters_setters.AssemblyInfoInputs.cache
+C:\Users\Ashish\Documents\GitHub\C-Sharp\getters_setters\obj\Debug\net6.0\getters_setters.AssemblyInfo.cs
+C:\Users\Ashish\Documents\GitHub\C-Sharp\getters_setters\obj\Debug\net6.0\getters_setters.csproj.CoreCompileInputs.cache
+C:\Users\Ashish\Documents\GitHub\C-Sharp\getters_setters\bin\Debug\net6.0\getters_setters.exe
+C:\Users\Ashish\Documents\GitHub\C-Sharp\getters_setters\bin\Debug\net6.0\getters_setters.deps.json
+C:\Users\Ashish\Documents\GitHub\C-Sharp\getters_setters\bin\Debug\net6.0\getters_setters.runtimeconfig.json
+C:\Users\Ashish\Documents\GitHub\C-Sharp\getters_setters\bin\Debug\net6.0\getters_setters.dll
+C:\Users\Ashish\Documents\GitHub\C-Sharp\getters_setters\bin\Debug\net6.0\getters_setters.pdb
+C:\Users\Ashish\Documents\GitHub\C-Sharp\getters_setters\obj\Debug\net6.0\getters_setters.dll
+C:\Users\Ashish\Documents\GitHub\C-Sharp\getters_setters\obj\Debug\net6.0\refint\getters_setters.dll
+C:\Users\Ashish\Documents\GitHub\C-Sharp\getters_setters\obj\Debug\net6.0\getters_setters.pdb
+C:\Users\Ashish\Documents\GitHub\C-Sharp\getters_setters\obj\Debug\net6.0\getters_setters.genruntimeconfig.cache
+C:\Users\Ashish\Documents\GitHub\C-Sharp\getters_setters\obj\Debug\net6.0\ref\getters_setters.dll
