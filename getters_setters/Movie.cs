@@ -4,16 +4,28 @@ namespace getters_setters
 {
     class Movie
     {
-        public string title;
-        public string director;
+        private string title;
+        private string director;
         private int rating;
 
         public Movie(string aTitle, string aDirector, int aRating)
         {
-            title = aTitle;
-            director = aDirector;
+            Title = aTitle;
+            Director = aDirector;
             Rating = aRating;
         } 
+
+        public string Title
+        {
+            get{return title;}
+            set{title = value;}
+        }
+
+        public string Director
+        {
+            get{return director;}
+            set{director = value;}
+        }
 
         public int Rating
         {

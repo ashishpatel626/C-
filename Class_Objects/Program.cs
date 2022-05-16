@@ -15,20 +15,35 @@ namespace Class_Objects
             year = aYear;
         }
 
-        
+        public virtual void hello()
+        {
+            Console.WriteLine("hello world");
+        }
+    }
+
+    public interface design
+    {
+        string animal{get; set;};
         
     }
 
-    class Program{
-       static void Main(String[] args){
-           car car1 = new car("honda", "insight", 2019);
-
-           //tesla tesla1 = new tesla("models");
-
-           
-           Console.WriteLine(car1.make);
+    public class electricCar : car
+    {
+       public override void hello()
+       {
+           Console.WriteLine("helo world");
        }
-    }    
+    }
 
-  
+    class Program
+    {
+       static void Main(String[] args)
+       {
+            car car1 = new car("honda", "insight", 2019);
+            electricCar car2 = new electricCar();
+            car2.hello();
+
+            Console.WriteLine(car1.make);
+       }
+    }   
 }

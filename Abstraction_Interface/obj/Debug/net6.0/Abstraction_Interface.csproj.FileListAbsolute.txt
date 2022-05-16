@@ -1,0 +1,15 @@
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Abstraction_Interface\obj\Debug\net6.0\Abstraction_Interface.csproj.AssemblyReference.cache
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Abstraction_Interface\obj\Debug\net6.0\Abstraction_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Abstraction_Interface\obj\Debug\net6.0\Abstraction_Interface.AssemblyInfoInputs.cache
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Abstraction_Interface\obj\Debug\net6.0\Abstraction_Interface.AssemblyInfo.cs
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Abstraction_Interface\obj\Debug\net6.0\Abstraction_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Abstraction_Interface\bin\Debug\net6.0\Abstraction_Interface.exe
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Abstraction_Interface\bin\Debug\net6.0\Abstraction_Interface.deps.json
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Abstraction_Interface\bin\Debug\net6.0\Abstraction_Interface.runtimeconfig.json
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Abstraction_Interface\bin\Debug\net6.0\Abstraction_Interface.dll
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Abstraction_Interface\bin\Debug\net6.0\Abstraction_Interface.pdb
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Abstraction_Interface\obj\Debug\net6.0\Abstraction_Interface.dll
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Abstraction_Interface\obj\Debug\net6.0\refint\Abstraction_Interface.dll
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Abstraction_Interface\obj\Debug\net6.0\Abstraction_Interface.pdb
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Abstraction_Interface\obj\Debug\net6.0\Abstraction_Interface.genruntimeconfig.cache
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Abstraction_Interface\obj\Debug\net6.0\ref\Abstraction_Interface.dll

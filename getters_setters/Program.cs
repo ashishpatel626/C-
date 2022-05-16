@@ -8,7 +8,7 @@ namespace getters_setters
         {
             Movie Movie1 = new Movie("Lord of the rings", "tolken", 100);
             
-            Console.WriteLine(Movie1.Rating);
+            Console.WriteLine(Movie1.Director);
         }
     }
 }
