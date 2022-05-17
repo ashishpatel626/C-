@@ -21,18 +21,20 @@ namespace Class_Objects
         }
     }
 
-    public interface design
-    {
-        string animal{get; set;};
-        
-    }
-
     public class electricCar : car
     {
-       public override void hello()
-       {
-           Console.WriteLine("helo world");
-       }
+
+        public electricCar(string aMake, string aModel, int aYear)
+        {
+            make = aMake;
+            model = aModel;
+            year = aYear;
+        }
+
+        public void print()
+        {
+            Console.WriteLine("print");
+        }
     }
 
     class Program
@@ -40,10 +42,7 @@ namespace Class_Objects
        static void Main(String[] args)
        {
             car car1 = new car("honda", "insight", 2019);
-            electricCar car2 = new electricCar();
-            car2.hello();
-
-            Console.WriteLine(car1.make);
+            electricCar car2 = new electricCar("honda", "insight", 2019);
        }
     }   
 }

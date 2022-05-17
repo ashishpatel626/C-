@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Playground
+namespace Polymorphism
 {
     class Program
     {
@@ -29,6 +29,11 @@ namespace Playground
         {
             return "woof";
         }
+
+        public int product(int x, int y)
+        {
+            
+        }
     }
 
     class cat : dog
@@ -44,6 +49,5 @@ namespace Playground
         {
             return "meow";
         }
-
     }
 }

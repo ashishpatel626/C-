@@ -4,21 +4,22 @@
     {
         static void Main(string[] args)
         {
-            PlatiniumCustomer p = new PlatiniumCustomer();
-            decimal x = p.Discount();
-            Console.WriteLine(x);
+            ICustomer c1 = new PlatiniumCustomer();
+            c1.Enquiry();
         }
     }
 
     public interface ICustomer
     {
         string name {get; set;}
+
+        void Enquiry();
         
     }
 
-    public abstract class Customer
+    public abstract class Customer : ICustomer
     {
-        string name {get; set;}
+        public string name {get; set;}
 
         public void Enquiry()
         {
