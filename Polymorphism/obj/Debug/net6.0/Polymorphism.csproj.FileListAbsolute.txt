@@ -1,0 +1,15 @@
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Polymorphism\obj\Debug\net6.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfo.cs
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Polymorphism\bin\Debug\net6.0\Polymorphism.exe
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Polymorphism\bin\Debug\net6.0\Polymorphism.deps.json
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Polymorphism\bin\Debug\net6.0\Polymorphism.runtimeconfig.json
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Polymorphism\bin\Debug\net6.0\Polymorphism.dll
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Polymorphism\bin\Debug\net6.0\Polymorphism.pdb
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Polymorphism\obj\Debug\net6.0\Polymorphism.dll
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Polymorphism\obj\Debug\net6.0\refint\Polymorphism.dll
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Polymorphism\obj\Debug\net6.0\Polymorphism.pdb
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Polymorphism\obj\Debug\net6.0\Polymorphism.genruntimeconfig.cache
+C:\Users\Ashish\Documents\GitHub\C-Sharp\Polymorphism\obj\Debug\net6.0\ref\Polymorphism.dll

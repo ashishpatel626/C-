@@ -7,8 +7,16 @@ namespace Polymorphism
         static void Main(string[] args)
         {
             dog kujo = new dog("Male", "Pitbull", 5);
-            cat cat1 = new cat("Female", "N/A", 3, "p");
-            Console.WriteLine(cat1.bark());
+            cat kity = new cat("Female", "N/A", 3, "p");
+            Length len1 = new Length(2, 8);
+            Length len2 = new Length(4, 5);
+
+            Length len3 = len1 + len2;
+            
+            Console.WriteLine(len1.GetLength());
+            Console.WriteLine(len2.GetLength());
+            Console.WriteLine(len3.GetLength());
+
         }
     }
 
@@ -32,7 +40,14 @@ namespace Polymorphism
 
         public int product(int x, int y)
         {
-            
+            int result = x * y;
+            return result;
+        }
+
+        public int product(int x, int y, int z)
+        {
+            int result = x * y * z;
+            return result;
         }
     }
 
@@ -48,6 +63,46 @@ namespace Polymorphism
         new public string bark()
         {
             return "meow";
+        }
+
+        public int product(int x, int y, int z, int a)
+        {
+            int result = x * y * z * a;
+            return result;
+        }
+    }
+
+    class Length
+    {
+        int feet, inch;
+        public Length()
+        {
+            this.feet = 0;
+            this.inch = 0;
+        }
+
+        public static Length operator +(Length l1, Length l2)
+        {
+            Length l3 = new Length();
+            l3.feet = l1.feet + l2.feet;
+            l3.inch = l1.inch + l3.feet;
+            if (l3.inch >= 12)
+            {
+                l3.feet++;
+                l3.inch -= 12;
+            }
+            return l3;
+        }
+
+        public Length(int feet, int inch)
+        {
+            this.feet = feet;
+            this.inch = inch;
+        }
+
+        public string GetLength()
+        {
+            return string.Format("Length: {0}' {1}\"", feet, inch);
         }
     }
 }
